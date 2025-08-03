@@ -15,7 +15,7 @@ A comprehensive Traditional Chinese Medicine (TCM) question dataset containing b
 
 **Total Questions: 13,750**
 - **Extracted Data:** 11,349 questions (original sources)
-- **Generated Data:** 2,401 questions (AI-generated using TCM-Align)
+- **Generated Data:** 2,401 questions (AI-generated using TCM-Align methodology from UbiComp '25 research paper)
 
 ## 📁 Repository Structure
 
