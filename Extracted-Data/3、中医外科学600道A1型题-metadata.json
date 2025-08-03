@@ -1,0 +1,53 @@
+{
+  "fileName": "3、中医外科学600道A1型题.json-metadata.json",
+  "timestamp": "2025-03-19T09:53:08.025Z",
+  "fields": [
+    {
+      "name": "root",
+      "path": "",
+      "type": "array",
+      "description": ""
+    }
+  ],
+  "arrays": [
+    {
+      "name": "choices",
+      "path": "[0].choices",
+      "size": 5,
+      "fields": []
+    },
+    {
+      "name": "answers",
+      "path": "[0].answers",
+      "size": 1,
+      "fields": []
+    },
+    {
+      "name": "root",
+      "path": "",
+      "size": 599,
+      "fields": [
+        {
+          "name": "query",
+          "type": "string",
+          "description": "题目均为直接提取，有的题后面含括号"
+        },
+        {
+          "name": "choices",
+          "type": "array",
+          "description": "字符串格式"
+        },
+        {
+          "name": "answers",
+          "type": "array",
+          "description": "均为单选"
+        },
+        {
+          "name": "explanation",
+          "type": "string",
+          "description": "本题集无注释"
+        }
+      ]
+    }
+  ]
+}

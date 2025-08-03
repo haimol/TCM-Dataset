@@ -1,0 +1,71 @@
+TCM Question Database Summary
+==================================================
+
+EXTRACTED DATA:
+--------------------
+Extracted-Data/1、中医内科学600道A1型题-metadata.json: metadata file
+Extracted-Data/1、中医内科学600道A1型题.json: 600 questions
+Extracted-Data/2、中医内科学300道A2型题-metadata.json: metadata file
+Extracted-Data/2、中医内科学300道A2型题.json: 297 questions
+Extracted-Data/3、中医外科学600道A1型题-metadata.json: metadata file
+Extracted-Data/3、中医外科学600道A1型题.json: 599 questions
+Extracted-Data/4、中医外科学300道A2型题-metadata.json: metadata file
+Extracted-Data/4、中医外科学300道A2型题.json: 300 questions
+Extracted-Data/5、中医妇科学600道A1型题-metadata.json: metadata file
+Extracted-Data/5、中医妇科学600道A1型题.json: 599 questions
+Extracted-Data/6、中医妇科学300道A2型题-metadata.json: metadata file
+Extracted-Data/6、中医妇科学300道A2型题.json: 300 questions
+Extracted-Data/7、中医儿科学300道A1型题-metadata.json: metadata file
+Extracted-Data/7、中医儿科学300道A1型题.json: 300 questions
+Extracted-Data/8、中医儿科学200道A2型题-metadata.json: metadata file
+Extracted-Data/8、中医儿科学200道A2型题.json: 200 questions
+Extracted-Data/questions.json: 325 questions
+Extracted-Data/中医住培题.json: 7829 questions
+
+Extracted Data Subtotal: 11349 questions
+
+GENERATED DATA:
+--------------------
+Generated-Data/中医儿科学.json: 281 questions
+Generated-Data/中医基础理论.json: 374 questions
+Generated-Data/中医外科学.json: 144 questions
+Generated-Data/中医妇科学.json: 378 questions
+Generated-Data/中医眼科学.json: 210 questions
+Generated-Data/中医诊断学.json: 320 questions
+Generated-Data/实用中医内科学.json: 694 questions
+
+Generated Data Subtotal: 2401 questions
+
+SUMMARY:
+--------------------
+Total Extracted Questions: 11349
+Total Generated Questions: 2401
+Grand Total: 13750 questions
+
+DETAILED BREAKDOWN:
+------------------------------
+Extracted-Data/1、中医内科学600道A1型题-metadata.json                        0 (metadata)
+Extracted-Data/1、中医内科学600道A1型题.json                               600 (extracted)
+Extracted-Data/2、中医内科学300道A2型题-metadata.json                        0 (metadata)
+Extracted-Data/2、中医内科学300道A2型题.json                               297 (extracted)
+Extracted-Data/3、中医外科学600道A1型题-metadata.json                        0 (metadata)
+Extracted-Data/3、中医外科学600道A1型题.json                               599 (extracted)
+Extracted-Data/4、中医外科学300道A2型题-metadata.json                        0 (metadata)
+Extracted-Data/4、中医外科学300道A2型题.json                               300 (extracted)
+Extracted-Data/5、中医妇科学600道A1型题-metadata.json                        0 (metadata)
+Extracted-Data/5、中医妇科学600道A1型题.json                               599 (extracted)
+Extracted-Data/6、中医妇科学300道A2型题-metadata.json                        0 (metadata)
+Extracted-Data/6、中医妇科学300道A2型题.json                               300 (extracted)
+Extracted-Data/7、中医儿科学300道A1型题-metadata.json                        0 (metadata)
+Extracted-Data/7、中医儿科学300道A1型题.json                               300 (extracted)
+Extracted-Data/8、中医儿科学200道A2型题-metadata.json                        0 (metadata)
+Extracted-Data/8、中医儿科学200道A2型题.json                               200 (extracted)
+Extracted-Data/questions.json                                     325 (extracted)
+Extracted-Data/中医住培题.json                                        7829 (extracted)
+Generated-Data/中医儿科学.json                                         281 (generated)
+Generated-Data/中医基础理论.json                                        374 (generated)
+Generated-Data/中医外科学.json                                         144 (generated)
+Generated-Data/中医妇科学.json                                         378 (generated)
+Generated-Data/中医眼科学.json                                         210 (generated)
+Generated-Data/中医诊断学.json                                         320 (generated)
+Generated-Data/实用中医内科学.json                                       694 (generated)
